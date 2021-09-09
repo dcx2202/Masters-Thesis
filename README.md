@@ -51,7 +51,10 @@ with CPU and when supported with GPU, in four different hardware configurations.
 
 <h1 align="center"> Demonstração / Demonstration </h1>
 <br>
-<h3 align="left"> Video: https://www.youtube.com/watch?v=PnougAtQIm4</h3>
+[Thesis PDF](https://github.com/dcx2202/Masters-Thesis/blob/main/Thesis/Interfaces%20e%20M%C3%A9todos%20de%20Pesquisa%20Visual%20em%20Imagens.pdf)
+<br>
+[Video demo](https://www.youtube.com/watch?v=PnougAtQIm4)
+<br>
 <h3 align="left"> Screenshots:</h3>
 
 ![Object Detection GUI](https://github.com/dcx2202/Masters-Thesis/blob/main/readme_imgs/interface_object_detection.png)
